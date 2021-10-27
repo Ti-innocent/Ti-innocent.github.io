@@ -10,7 +10,7 @@ description: >
 email: innocent.twagirayesu@aims.ac.rw
 author: TWAGIRAYESSU Innocent
 avatar: "https://github.com/Ti-innocent/Ti-innocent.github.io/blob/gh-pages/photos/innocent_face.png?raw=true"
-profile: Welcome to my site.
+profile: Hey!!Welcome to my site.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
@@ -29,8 +29,8 @@ excerpt_separator: <!--more-->
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    #Category: /category/
+    #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
